@@ -1,15 +1,15 @@
 //
-//  CoreDataTests.swift
-//  CoreDataTests
+//  CoreDataTutorialTests.swift
+//  CoreDataTutorialTests
 //
 //  Created by Ravi Vooda on 11/18/20.
 //  Copyright © 2020 Ravi Vooda. All rights reserved.
 //
 
 import XCTest
-@testable import CoreData
+@testable import CoreDataTutorial
 
-class CoreDataTests: XCTestCase {
+class CoreDataTutorialTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

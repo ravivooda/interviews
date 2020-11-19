@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  CoreData
+//  CoreDataTutorial
 //
 //  Created by Ravi Vooda on 11/18/20.
 //  Copyright © 2020 Ravi Vooda. All rights reserved.
