@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>QUERY_PATH</key>
+	<string>/3/search/movie</string>
+	<key>IMAGE_PREFIX</key>
+	<string>https://image.tmdb.org/t/p/w600_and_h900_bestv2</string>
+	<key>BASE_URL</key>
+	<string>https://api.themoviedb.org</string>
+	<key>API_KEY</key>
+	<string>d424b6d1470a047fbe4c2d2a3838c978</string>
+</dict>
+</plist>
